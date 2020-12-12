@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\解題\占卜\占卜\bin\Debug\占卜.exe.config
+C:\Users\user\Desktop\解題\占卜\占卜\bin\Debug\占卜.exe
+C:\Users\user\Desktop\解題\占卜\占卜\bin\Debug\占卜.pdb
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.csprojAssemblyReference.cache
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.Form1.resources
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.Properties.Resources.resources
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.csproj.GenerateResource.cache
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.exe
+C:\Users\user\Desktop\解題\占卜\占卜\obj\Debug\占卜.pdb
